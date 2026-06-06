@@ -79,12 +79,4 @@ FITNESSPRO_DJANGO/
 ├── db.sqlite3               # Database file
 ├── manage.py
 └── requirements.txt
-```
 
----
-
-## 🙌 Acknowledgements
-
-- Built as a Portfolio project
-- Inspired by real-world gym operation
-  
