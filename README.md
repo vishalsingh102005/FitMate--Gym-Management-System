@@ -32,25 +32,6 @@
 
  *No external Api Used-* Build with pure Django logic
 
----
-
-## 📸 Screenshots
-
-### 🏠 Homepage
-
-![Homepage](screenshots/homepage.png)
-
-The homepage shows featured exercises and clean navigation for gym users.
-
-### 🙍‍♂️ User Panel
-
-![User Panel](screenshots/user.png)
-
-Users can view their assigned workout for the day, check their diet plan, and manage their profile settings.
-
-### 🛠️ Admin Panel
-
-![Admin Panel](screenshots/admin.png)
 
 Gym admins can add users, take attendance, and manage member data securely from the dashboard.
 
@@ -105,19 +86,5 @@ FITNESSPRO_DJANGO/
 ## 🙌 Acknowledgements
 
 - Built as a Portfolio project
-- Inspired by real-world gym operations
-
----
-
-## 🌐 Live Demo
-
-[🔗 Live Site](https://fitnessprofahadali.pythonanywhere.com/)
-
------
-
-## 👤 Author
-
-**Fahad Ali**
-
-  * GitHub: [@FAHAD-ALI-github](https://github.com/FAHAD-ALI-github)
-  * LinkedIn: [fahadali1078](https://www.linkedin.com/in/fahadali1078/)
+- Inspired by real-world gym operation
+  
